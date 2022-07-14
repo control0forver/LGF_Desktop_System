@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+/.vs/LGF_Desktop_System/v17
+/LGF-DS Launcher/Build/Obj
+/LGF_Desktop_System/Build/Obj

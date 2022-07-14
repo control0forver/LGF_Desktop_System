@@ -1,0 +1,8 @@
+#include "StringHelper.hpp"
+#include "GraphHelper.hpp"
+#include "console.hpp"
+#include "SoundHelper.hpp"
+#include "Sockethelper.hpp"
+#include "FileHelper.hpp"
+#include "ChangeDir.hpp"
+#include "colors.hpp"
